@@ -1,0 +1,270 @@
+*********************************
+2019-08-15 16:22:37
+{"Identifier" : "m.20071101-m004-w011-047", "FileInfo" : [ { "Format" : "jpg","ObjID" :"m.20071101-m004-w011-047.pic.jpg.1"},{ "Format" : "CEBX","ObjID" : "m.20071101-m004-w011-047.ft.CEBX.1"}]}
+
+Expected: The content to match the given JSON schema.
+error: string "jpg" is too long (length: 3, maximum allowed: 2)
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/Format"}
+    instance: {"pointer":"/FileInfo/0/Format"}
+    domain: "validation"
+    keyword: "maxLength"
+    value: "jpg"
+    found: 3
+    maxLength: 2
+error: ECMA 262 regex "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1" does not match input string "m.20071101-m004-w011-047.pic.jpg.1"
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/ObjID"}
+    instance: {"pointer":"/FileInfo/0/ObjID"}
+    domain: "validation"
+    keyword: "pattern"
+    regex: "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1"
+    string: "m.20071101-m004-w011-047.pic.jpg.1"
+
+     but: was "{\"Identifier\" : \"m.20071101-m004-w011-047\", \"FileInfo\" : [ { \"Format\" : \"jpg\",\"ObjID\" :\"m.20071101-m004-w011-047.pic.jpg.1\"},{ \"Format\" : \"CEBX\",\"ObjID\" : \"m.20071101-m004-w011-047.ft.CEBX.1\"}]}\n"
+*********************************
+2019-08-15 16:22:37
+{"Identifier" : "m.20071101-m004-w011-047", "FileInfo" : [ { "Format" : "jpg","ObjID" :"m.20071101-m004-w011-047.pic.jpg.1"},{ "Format" : "CEBX","ObjID" : "m.20071101-m004-w011-047.ft.CEBX.1"}]}
+
+Expected: The content to match the given JSON schema.
+error: string "jpg" is too long (length: 3, maximum allowed: 2)
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/Format"}
+    instance: {"pointer":"/FileInfo/0/Format"}
+    domain: "validation"
+    keyword: "maxLength"
+    value: "jpg"
+    found: 3
+    maxLength: 2
+error: ECMA 262 regex "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1" does not match input string "m.20071101-m004-w011-047.pic.jpg.1"
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/ObjID"}
+    instance: {"pointer":"/FileInfo/0/ObjID"}
+    domain: "validation"
+    keyword: "pattern"
+    regex: "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1"
+    string: "m.20071101-m004-w011-047.pic.jpg.1"
+
+     but: was "{\"Identifier\" : \"m.20071101-m004-w011-047\", \"FileInfo\" : [ { \"Format\" : \"jpg\",\"ObjID\" :\"m.20071101-m004-w011-047.pic.jpg.1\"},{ \"Format\" : \"CEBX\",\"ObjID\" : \"m.20071101-m004-w011-047.ft.CEBX.1\"}]}\n"
+*********************************
+2019-08-15 16:22:37
+{"Identifier" : "m.20071101-m004-w011-047", "FileInfo" : [ { "Format" : "jpg","ObjID" :"m.20071101-m004-w011-047.pic.jpg.1"},{ "Format" : "CEBX","ObjID" : "m.20071101-m004-w011-047.ft.CEBX.1"}]}
+
+Expected: The content to match the given JSON schema.
+error: string "jpg" is too long (length: 3, maximum allowed: 2)
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/Format"}
+    instance: {"pointer":"/FileInfo/0/Format"}
+    domain: "validation"
+    keyword: "maxLength"
+    value: "jpg"
+    found: 3
+    maxLength: 2
+error: ECMA 262 regex "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1" does not match input string "m.20071101-m004-w011-047.pic.jpg.1"
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/ObjID"}
+    instance: {"pointer":"/FileInfo/0/ObjID"}
+    domain: "validation"
+    keyword: "pattern"
+    regex: "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1"
+    string: "m.20071101-m004-w011-047.pic.jpg.1"
+
+     but: was "{\"Identifier\" : \"m.20071101-m004-w011-047\", \"FileInfo\" : [ { \"Format\" : \"jpg\",\"ObjID\" :\"m.20071101-m004-w011-047.pic.jpg.1\"},{ \"Format\" : \"CEBX\",\"ObjID\" : \"m.20071101-m004-w011-047.ft.CEBX.1\"}]}\n"
+*********************************
+2019-08-15 16:22:37
+{"Identifier" : "m.20071101-m004-w011-047", "FileInfo" : [ { "Format" : "jpg","ObjID" :"m.20071101-m004-w011-047.pic.jpg.1"},{ "Format" : "CEBX","ObjID" : "m.20071101-m004-w011-047.ft.CEBX.1"}]}
+
+Expected: The content to match the given JSON schema.
+error: string "jpg" is too long (length: 3, maximum allowed: 2)
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/Format"}
+    instance: {"pointer":"/FileInfo/0/Format"}
+    domain: "validation"
+    keyword: "maxLength"
+    value: "jpg"
+    found: 3
+    maxLength: 2
+error: ECMA 262 regex "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1" does not match input string "m.20071101-m004-w011-047.pic.jpg.1"
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/ObjID"}
+    instance: {"pointer":"/FileInfo/0/ObjID"}
+    domain: "validation"
+    keyword: "pattern"
+    regex: "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1"
+    string: "m.20071101-m004-w011-047.pic.jpg.1"
+
+     but: was "{\"Identifier\" : \"m.20071101-m004-w011-047\", \"FileInfo\" : [ { \"Format\" : \"jpg\",\"ObjID\" :\"m.20071101-m004-w011-047.pic.jpg.1\"},{ \"Format\" : \"CEBX\",\"ObjID\" : \"m.20071101-m004-w011-047.ft.CEBX.1\"}]}\n"
+*********************************
+2019-08-15 16:22:37
+{"Identifier" : "m.20071101-m004-w011-047", "FileInfo" : [ { "Format" : "jpg","ObjID" :"m.20071101-m004-w011-047.pic.jpg.1"},{ "Format" : "CEBX","ObjID" : "m.20071101-m004-w011-047.ft.CEBX.1"}]}
+
+Expected: The content to match the given JSON schema.
+error: string "jpg" is too long (length: 3, maximum allowed: 2)
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/Format"}
+    instance: {"pointer":"/FileInfo/0/Format"}
+    domain: "validation"
+    keyword: "maxLength"
+    value: "jpg"
+    found: 3
+    maxLength: 2
+error: ECMA 262 regex "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1" does not match input string "m.20071101-m004-w011-047.pic.jpg.1"
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/ObjID"}
+    instance: {"pointer":"/FileInfo/0/ObjID"}
+    domain: "validation"
+    keyword: "pattern"
+    regex: "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1"
+    string: "m.20071101-m004-w011-047.pic.jpg.1"
+
+     but: was "{\"Identifier\" : \"m.20071101-m004-w011-047\", \"FileInfo\" : [ { \"Format\" : \"jpg\",\"ObjID\" :\"m.20071101-m004-w011-047.pic.jpg.1\"},{ \"Format\" : \"CEBX\",\"ObjID\" : \"m.20071101-m004-w011-047.ft.CEBX.1\"}]}\n"
+*********************************
+2019-08-15 16:22:37
+{"Identifier" : "m.20071101-m004-w011-047", "FileInfo" : [ { "Format" : "jpg","ObjID" :"m.20071101-m004-w011-047.pic.jpg.1"},{ "Format" : "CEBX","ObjID" : "m.20071101-m004-w011-047.ft.CEBX.1"}]}
+
+Expected: The content to match the given JSON schema.
+error: string "jpg" is too long (length: 3, maximum allowed: 2)
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/Format"}
+    instance: {"pointer":"/FileInfo/0/Format"}
+    domain: "validation"
+    keyword: "maxLength"
+    value: "jpg"
+    found: 3
+    maxLength: 2
+error: ECMA 262 regex "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1" does not match input string "m.20071101-m004-w011-047.pic.jpg.1"
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/cebxrequest.json#","pointer":"/properties/FileInfo/items/properties/ObjID"}
+    instance: {"pointer":"/FileInfo/0/ObjID"}
+    domain: "validation"
+    keyword: "pattern"
+    regex: "[a-z].[0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9]{3}1"
+    string: "m.20071101-m004-w011-047.pic.jpg.1"
+
+     but: was "{\"Identifier\" : \"m.20071101-m004-w011-047\", \"FileInfo\" : [ { \"Format\" : \"jpg\",\"ObjID\" :\"m.20071101-m004-w011-047.pic.jpg.1\"},{ \"Format\" : \"CEBX\",\"ObjID\" : \"m.20071101-m004-w011-047.ft.CEBX.1\"}]}\n"
+
+Expected: The content to match the given JSON schema.
+error: property "Format" of object has missing property dependencies (schema requires ["ObjID"]; missing: ["ObjID"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":"/properties/FileInfo/items"}
+    instance: {"pointer":"/FileInfo/0"}
+    domain: "validation"
+    keyword: "dependencies"
+    property: "Format"
+    required: ["ObjID"]
+    missing: ["ObjID"]
+error: object has missing required properties (["ObjID"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":"/properties/FileInfo/items"}
+    instance: {"pointer":"/FileInfo/0"}
+    domain: "validation"
+    keyword: "required"
+    required: ["Format","ObjID"]
+    missing: ["ObjID"]
+error: property "Format" of object has missing property dependencies (schema requires ["ObjID"]; missing: ["ObjID"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":"/properties/FileInfo/items"}
+    instance: {"pointer":"/FileInfo/1"}
+    domain: "validation"
+    keyword: "dependencies"
+    property: "Format"
+    required: ["ObjID"]
+    missing: ["ObjID"]
+error: object has missing required properties (["ObjID"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":"/properties/FileInfo/items"}
+    instance: {"pointer":"/FileInfo/1"}
+    domain: "validation"
+    keyword: "required"
+    required: ["Format","ObjID"]
+    missing: ["ObjID"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ä¸­å›½å†œä¸šç™¾ç§‘å…¨ä¹¦\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ä¸­å›½å†œä¸šç™¾ç§‘å…¨ä¹¦ç¼–è¾‘éƒ¨\",\n  \"Subject\": \"å†œä¸šâ€”â€”ä¸­å›½â€”â€”ç™¾ç§‘å…¨ä¹¦\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ä¸­å›½å†œä¸šå‡ºç‰ˆç¤¾\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"é™ˆæ±Ÿå‡¡, éƒ­æ°¸ç«‹\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["Identifier"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["Abstract","AlternativeTitle","ApabiClass","ClassCode","ContentNum","Contributor","ContributorType","Creator","CreatorType","DRID","EditionNote","EditionOrder","FileInfo","ForeignPrice","ForeignPriceType","IDType","Identifier","Illustration","IssuedDate","Language","Notes","PaperPrice","Place","PressOrder","Price","Publisher","RealISBN","Reditor","Relation","RelationType","Subject","Title","Type","Year"]
+    missing: ["Identifier"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé±à¼­²¿\",\n  \"Subject\": \"Å©Òµ¡ª¡ªÖÐ¹ú¡ª¡ª°Ù¿ÆÈ«Êé\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ÖÐ¹úÅ©Òµ³ö°æÉç\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"³Â½­·², ¹ùÓÀÁ¢\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["Identifier"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["Abstract","AlternativeTitle","ApabiClass","ClassCode","ContentNum","Contributor","ContributorType","Creator","CreatorType","DRID","EditionNote","EditionOrder","FileInfo","ForeignPrice","ForeignPriceType","IDType","Identifier","Illustration","IssuedDate","Language","Notes","PaperPrice","Place","PressOrder","Price","Publisher","RealISBN","Reditor","Relation","RelationType","Subject","Title","Type","Year"]
+    missing: ["Identifier"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé±à¼­²¿\",\n  \"Subject\": \"Å©Òµ¡ª¡ªÖÐ¹ú¡ª¡ª°Ù¿ÆÈ«Êé\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ÖÐ¹úÅ©Òµ³ö°æÉç\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"³Â½­·², ¹ùÓÀÁ¢\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["Identifier"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["Abstract","AlternativeTitle","ApabiClass","ClassCode","ContentNum","Contributor","ContributorType","Creator","CreatorType","DRID","EditionNote","EditionOrder","FileInfo","ForeignPrice","ForeignPriceType","IDType","Identifier","Illustration","IssuedDate","Language","Notes","PaperPrice","Place","PressOrder","Price","Publisher","RealISBN","Reditor","Relation","RelationType","Subject","Title","Type","Year"]
+    missing: ["Identifier"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé±à¼­²¿\",\n  \"Subject\": \"Å©Òµ¡ª¡ªÖÐ¹ú¡ª¡ª°Ù¿ÆÈ«Êé\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ÖÐ¹úÅ©Òµ³ö°æÉç\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"³Â½­·², ¹ùÓÀÁ¢\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["Identifier"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["Abstract","AlternativeTitle","ApabiClass","ClassCode","ContentNum","Contributor","ContributorType","Creator","CreatorType","DRID","EditionNote","EditionOrder","FileInfo","ForeignPrice","ForeignPriceType","IDType","Identifier","Illustration","IssuedDate","Language","Notes","PaperPrice","Place","PressOrder","Price","Publisher","RealISBN","Reditor","Relation","RelationType","Subject","Title","Type","Year"]
+    missing: ["Identifier"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé±à¼­²¿\",\n  \"Subject\": \"Å©Òµ¡ª¡ªÖÐ¹ú¡ª¡ª°Ù¿ÆÈ«Êé\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ÖÐ¹úÅ©Òµ³ö°æÉç\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"³Â½­·², ¹ùÓÀÁ¢\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["Identifier"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["Abstract","AlternativeTitle","ApabiClass","ClassCode","ContentNum","Contributor","ContributorType","Creator","CreatorType","DRID","EditionNote","EditionOrder","FileInfo","ForeignPrice","ForeignPriceType","IDType","Identifier","Illustration","IssuedDate","Language","Notes","PaperPrice","Place","PressOrder","Price","Publisher","RealISBN","Reditor","Relation","RelationType","Subject","Title","Type","Year"]
+    missing: ["Identifier"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé±à¼­²¿\",\n  \"Subject\": \"Å©Òµ¡ª¡ªÖÐ¹ú¡ª¡ª°Ù¿ÆÈ«Êé\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ÖÐ¹úÅ©Òµ³ö°æÉç\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"³Â½­·², ¹ùÓÀÁ¢\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["Identifier"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["Abstract","AlternativeTitle","ApabiClass","ClassCode","ContentNum","Contributor","ContributorType","Creator","CreatorType","DRID","EditionNote","EditionOrder","FileInfo","ForeignPrice","ForeignPriceType","IDType","Identifier","Illustration","IssuedDate","Language","Notes","PaperPrice","Place","PressOrder","Price","Publisher","RealISBN","Reditor","Relation","RelationType","Subject","Title","Type","Year"]
+    missing: ["Identifier"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé±à¼­²¿\",\n  \"Subject\": \"Å©Òµ¡ª¡ªÖÐ¹ú¡ª¡ª°Ù¿ÆÈ«Êé\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ÖÐ¹úÅ©Òµ³ö°æÉç\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"³Â½­·², ¹ùÓÀÁ¢\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["Identifier"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["Abstract","AlternativeTitle","ApabiClass","ClassCode","ContentNum","Contributor","ContributorType","Creator","CreatorType","DRID","EditionNote","EditionOrder","FileInfo","ForeignPrice","ForeignPriceType","IDType","Identifier","Illustration","IssuedDate","Language","Notes","PaperPrice","Place","PressOrder","Price","Publisher","RealISBN","Reditor","Relation","RelationType","Subject","Title","Type","Year"]
+    missing: ["Identifier"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé±à¼­²¿\",\n  \"Subject\": \"Å©Òµ¡ª¡ªÖÐ¹ú¡ª¡ª°Ù¿ÆÈ«Êé\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ÖÐ¹úÅ©Òµ³ö°æÉç\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"³Â½­·², ¹ùÓÀÁ¢\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
+Expected: The content to match the given JSON schema.
+error: object has missing required properties (["Identifier"])
+    level: "error"
+    schema: {"loadingURI":"file:/C:/Users/hanying.apabi/IdeaProjects/test/target/classes/ApabiBookMetadata.json#","pointer":""}
+    instance: {"pointer":""}
+    domain: "validation"
+    keyword: "required"
+    required: ["Abstract","AlternativeTitle","ApabiClass","ClassCode","ContentNum","Contributor","ContributorType","Creator","CreatorType","DRID","EditionNote","EditionOrder","FileInfo","ForeignPrice","ForeignPriceType","IDType","Identifier","Illustration","IssuedDate","Language","Notes","PaperPrice","Place","PressOrder","Price","Publisher","RealISBN","Reditor","Relation","RelationType","Subject","Title","Type","Year"]
+    missing: ["Identifier"]
+
+     but: was "{\n  \"DRID\": 301,\n  \"Title\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé\",\n  \"AlternativeTitle\": \"\",\n  \"Creator\": \"ÖÐ¹úÅ©Òµ°Ù¿ÆÈ«Êé±à¼­²¿\",\n  \"Subject\": \"Å©Òµ¡ª¡ªÖÐ¹ú¡ª¡ª°Ù¿ÆÈ«Êé\",\n  \"Abstract\": \"\",\n  \"Publisher\": \"ÖÐ¹úÅ©Òµ³ö°æÉç\",\n  \"Type\": \"ZZ\",\n  \"Contributor\": \"\",\n  \"IssuedDate\": \"1\",\n  \"Year\": 91,\n  \"IDType\": null,\n  \"Relation\": \"\",\n  \"Price\": 0,\n  \"PaperPrice\": 50,\n  \"ForeignPriceType\": null,\n  \"ForeignPrice\": 0,\n  \"EditionOrder\": \"1\",\n  \"EditionNote\": \"\",\n  \"PressOrder\": \"1\",\n  \"ContentNum\": 1074,\n  \"ClassCode\": \"S-61\",\n  \"Language\": \"chi\",\n  \"ApabiClass\": \"\",\n  \"Illustration\": \"\",\n  \"Reditor\": \"³Â½­·², ¹ùÓÀÁ¢\",\n  \"Notes\": \"\",\n  \"RealISBN\": \"7-109-02065-7\",\n  \"CreatorType\": null,\n  \"RelationType\": null,\n  \"ContributorType\": null,\n  \"Place\": null,\n  \"FileInfo\": [\n    {\n      \"Format\": \"jpg\"\n    },\n    {\n      \"Format\": \"CEBX\"\n    }\n  ]\n}"
